@@ -15,7 +15,7 @@
   /* --background-image: linear-gradient(90deg,#21D4FD, #B721FF); */
   /* --background-image:url("background_image/2725544.jpg"); */
   /* triend all the above gradients, finally liked the gradient vectored image */
-  --background-image: url(media/background.jpg);
+  --background-image: url(media/background1);
   --music-themes-background-image: linear-gradient(
     90deg,
     #22162a,
@@ -27,7 +27,6 @@ body {
   background-image: var(--background-image);
   margin: 0px;
   font-family: "Segoe UI", Arial, sans-serif;
-  color: white;
 }
 /* removing margin for all the textual elements */
 h1,
